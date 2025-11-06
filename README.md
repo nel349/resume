@@ -1,7 +1,7 @@
 # Norman Lopez
 **Software Engineer**
 
-Location: Beaverton, OR | Email: norman.lopez.krypto@gmail.com | LinkedIn: [https://www.linkedin.com/in/normanlopez/](https://www.linkedin.com/in/normanlopez/) | GitHub: [https://github.com/nel349](https://github.com/nel349)
+Location: Beaverton, OR | Email: noell.lpz@gmail.com | LinkedIn: [https://www.linkedin.com/in/normanlopez/](https://www.linkedin.com/in/normanlopez/) | GitHub: [https://github.com/nel349](https://github.com/nel349)
 
 ## Summary
 
