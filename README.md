@@ -9,10 +9,11 @@ Software engineer specializing in blockchain and mobile development. Currently f
 
 ## Skills
 
-**Languages:** TypeScript, JavaScript, Kotlin, Java, Rust, Solidity, Swift, Compact  
-**Mobile:** React Native, Android, iOS, Flutter, WebAssembly (WAMR)  
-**Blockchain:** Midnight, Solana, EVM, NEAR, Algorand, Chainlink, Bitcoin  
+**Languages:** TypeScript, JavaScript, Kotlin, Java, Rust, Solidity, Swift, Compact
+**Mobile:** React Native, Android, iOS, Flutter, WebAssembly (WAMR)
+**Blockchain:** Midnight, Solana, EVM, NEAR, Algorand, Chainlink, Bitcoin
 **Tools:** Zero-Knowledge Proofs, WASM, Turbo Modules, Web3, Docker, Linux
+**QA & Testing:** XCUITest, Espresso, Appium, TestRail, API Testing, Integration Testing, Mock Testing, CI/CD Pipelines, Performance Testing, Accessibility Testing, Python, Jira, Agile/Scrum
 
 ## Experience
 
